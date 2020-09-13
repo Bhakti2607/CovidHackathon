@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="#f5faaf"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/dashboardcontent"
+        android:layout_width="300dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/dashboardcontent1"
+        android:layout_width="100dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/dashboardcontent2"
+        android:layout_width="100dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/dashboardcontent3"
+        android:layout_width="100dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/dashboardcontent4"
+        android:layout_width="100dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/dashboardcontent5"
+        android:layout_width="100dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/dashboardcontent6"
+        android:layout_width="100dp"
+        android:layout_height="59dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="TextView" />
+</LinearLayout>
